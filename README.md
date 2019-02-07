@@ -1,5 +1,7 @@
 # Energy-Manager
-Handler for iPhone battery
+Handler for iOS Devices battery in Swift 4.
+
+Using Foundation and UIKit.
 
 This project is very usefull to manage the battery of iOS Devices.
 
